@@ -1,4 +1,4 @@
-# MTExtractor-Firefox-Addon
+# MTExtractor Firefox Addon
 
 Description : A tool to extract tab urls.
 Features :
